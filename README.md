@@ -20,7 +20,8 @@ This project involves analyzing HR data to gain insights into employee attrition
 - **Power BI**: For data visualization.  
 - **SQL**: For data preprocessing and analysis.  
 - **Feature Engineering**: To enhance dataset usability.
-  ---
+
+---
 
 ## Data Used  
 - <a href="https://github.com/NikhilChoudhary-93/HR-Data-Analysis-Dashboard/blob/main/HR_set.csv">Dataset</a>
