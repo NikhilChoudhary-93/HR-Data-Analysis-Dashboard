@@ -23,7 +23,7 @@ This project involves analyzing HR data to gain insights into employee attrition
   ---
 
 ## Data Used  
- 
+- <a href="https://github.com/NikhilChoudhary-93/HR-Data-Analysis-Dashboard/blob/main/HR_set.csv">Dataset</a>
 
 ---
 
